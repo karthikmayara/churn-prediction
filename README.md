@@ -1,0 +1,2 @@
+# churn-prediction
+When it comes to useful business applications of machine learning, it doesn’t get much better than customer churn prediction. It’s a problem where you usually have a lot of high-quality, fresh data to work with, it’s relatively straightforward, and solving it can be a great way to increase profits.  Churn rate is a critical metric of customer satisfaction. Low churn rates mean happy customers; high churn rates mean customers are leaving you.
